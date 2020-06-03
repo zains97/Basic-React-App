@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World! My name is Zain and I am checkig if my code works with
-          CI/CD.
+          Hello World! My name is Zain Saleem and I am checking if my workflow
+          is operational.
         </p>
         <a
           className="App-link"
